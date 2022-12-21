@@ -1,5 +1,6 @@
 package net.aki.fabricmod;
 
+import net.aki.fabricmod.block.ModBlocks;
 import net.aki.fabricmod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
@@ -13,5 +14,6 @@ public class FabricMod implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }

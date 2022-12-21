@@ -19,7 +19,6 @@ public class ModItems {
             "ruby",
             new Item(new Item.Settings()),
     ModItemGroup.ruby
-
     );
 
     private static Item registerItem(String name, Item item, ItemGroup itemGroup) {

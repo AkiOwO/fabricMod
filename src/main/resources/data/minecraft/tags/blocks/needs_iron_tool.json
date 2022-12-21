@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+      "fabricmod:ruby_ore",
+      "fabricmod:ruby_block"
+  ]
+}
