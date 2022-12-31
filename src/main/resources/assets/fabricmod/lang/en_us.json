@@ -1,7 +1,24 @@
 {
   "item.fabricmod.ruby": "Ruby",
 
+  "item.fabricmod.ruby_nugget": "Ruby Nugget",
+
   "block.fabricmod.ruby_ore": "Ruby Ore",
 
-  "block.fabricmod.ruby_block": "Ruby Block"
+  "block.fabricmod.ruby_block": "Ruby Block",
+
+  "item.fabricmod.coinflip_item": "Coinflip Item",
+
+  "item.fabricmod.ofenkaese_item": "Ofenkäse",
+
+  "item.fabricmod.schlagstock": "Schlagstock",
+
+  "item.fabricmod.ruby_helmet": "Ruby Helmet",
+  "item.fabricmod.ruby_chestplate": "Ruby Chestplate",
+  "item.fabricmod.ruby_leggings": "Ruby Leggings",
+  "item.fabricmod.ruby_boots": "Ruby Boots",
+
+  "key.category.fabricmod.open": "Open",
+  "key.category.fabricmod.SEND_MSG": "Send Message",
+  "key.category.fabricmod.KEY_TEST_METHOD": "Test Method"
 }
